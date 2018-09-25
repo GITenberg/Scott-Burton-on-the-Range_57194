@@ -1,11 +1,16 @@
 _repo: Scott-Burton-on-the-Range_57194
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57194-h/images/cover.jpg
 creator:
   author:
     agent_name: Cheyney, Edward G. (Edward Gheen)
     gutenberg_agent_id: '49214'
     url: http://www.gutenberg.org/2009/agents/49214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57194#Scott-Burton-on-the-Range
 gutenberg_issued: '2018-05-21'
 gutenberg_type: Text
 identifiers:
